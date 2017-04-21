@@ -193,4 +193,12 @@ footer {
     .bluebox p, .redbox p {
       margin-bottom: 70px;
     }
+    .media-body {
+      float: left;
+      width: 98%;
+    }
+  
+    .media-heading {
+      padding-top: 10px;
+    }
 }
