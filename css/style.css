@@ -200,3 +200,11 @@ footer {
       padding-top: 10px;
     }
 }
+
+@media screen 
+  and (min-width: 770px) 
+  and (max-width: 1030px) {
+    body {
+      margin-top: 100px;
+    }
+}
